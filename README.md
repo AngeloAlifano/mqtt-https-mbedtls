@@ -5,12 +5,12 @@
 Overview 
 ========
 
-The mqtt_lwip_httpsrv_mbedTLS demo application demonstrates an  and MQTT client set up on lwIP TCP/IP and the MbedTLS stack with
+The mqtt_lwip_httpsrv_mbedTLS demo application demonstrates an HTTPS server set up on lwIP TCP/IP and the MbedTLS stack with
 FreeRTOS. 
-The user uses the functionality of HTTPServer by an Internet browser to send an https request for connection. The board acts as an HTTP server
+The user uses the functionality of HTTPS Server by an Internet browser to send an https request for connection. The board acts as an HTTP server
 and sends a Web page back to the PC.
 
-The mqtt_lwip_httpsrv_mbedTLSdemo application demonstrates MQTT client connecting to MQTT broker via secured socket.
+The mqtt_lwip_httpsrv_mbedTLSdemo application demonstrates also a MQTT client connecting to MQTT broker via secured socket.
 The application resolves broker's hostname if needed.
 Then it connects to the broker and subscribes to the "lwip_topic/#" and "lwip_other/#" topics.
 Further it publishes five messages to the "lwip_topic/100" which are also received back
