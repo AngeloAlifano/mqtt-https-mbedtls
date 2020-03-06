@@ -33,8 +33,9 @@ Hardware requirements
 
 Board settings
 ==============
-TWR-SER:
-    - RMII mode - J2 3-4 shunt on, J3 2-3 shunt on, J12 shunt on 9,10.
+ TWR-SER:
+ -RMII mode - J2 3-4 shunt on, J3 2-3 shunt on, J12 shunt on 9,10.
+ 
 Prepare the Demo
 ================
 1.  Connect a USB cable between the PC host and the OpenSDA(or USB to Serial) USB port on the target board.
@@ -53,9 +54,11 @@ Prepare the Demo
 Running the demo
 ================
 1.  When the demo runs successfully, the terminal will display the following:
-        Initializing PHY...
 
-        ************************************************
+	
+	
+		Initializing PHY...
+		************************************************
          mbedTLS HTTPS Server and MQTT client example
         ************************************************
          IPv4 Address     : 192.168.0.102
@@ -83,12 +86,14 @@ Running the demo
 		Going to publish to the topic "lwip_topic/100"...
 		Published to the topic "lwip_topic/100".
 		Received 18 bytes from the topic "lwip_topic/100": "message from board"
-		=====================
-	
-2.  On the browser address bar, type https://192.168.0.102(IP address of the board).
+		
+2.  On the browser address bar, type https://192.168.0.102 (IP address of the board).
 	The browser should show a web page.
 
+
 Modifying content of static web pages
+================
+
 To modify content available through the web server you must complete following steps:
   1. Modify, add or delete files in folder "middleware\lwip\src\apps\httpsrv\mkfs\web_pages".
   2. Run the script file "middleware\lwip\src\apps\httpsrv\mkfs\mkfs.pl <directory name>" to generate new "httpsrv_fs_data.c".
@@ -108,5 +113,4 @@ To modify content available through the web server you must complete following s
 		Done.
   3. Overwrite the middleware\lwip\src\apps\httpsrv\httpsrv_fs_data.c file by the new generated middleware\lwip\src\apps\httpsrv\mkfs\httpsrv_fs_data.c file.
   4. Re-compile the HTTP server application example and download it to your board. 
-Customization options
-=====================
+
