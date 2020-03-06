@@ -1,0 +1,2 @@
+httpsrv_ws_api.c:22:9:WS_send	16	static
+httpsrv_ws_api.c:64:9:WS_close	8	static

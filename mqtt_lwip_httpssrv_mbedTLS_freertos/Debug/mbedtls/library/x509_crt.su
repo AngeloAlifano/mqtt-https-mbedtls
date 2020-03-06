@@ -1,0 +1,17 @@
+x509_crt.c:179:12:x509_profile_check_pk_alg	0	static
+x509_crt.c:233:12:x509_memcasecmp	8	static
+x509_crt.c:328:12:x509_name_cmp	16	static
+x509_crt.c:195:12:x509_profile_check_key	16	static
+x509_crt.c:2408:12:x509_crt_check_cn	24	static
+x509_crt.c:1529:5:mbedtls_x509_crt_info	88	static
+x509_crt.c:1690:5:mbedtls_x509_crt_verify_info	48	static
+x509_crt.c:1719:5:mbedtls_x509_crt_check_key_usage	0	static
+x509_crt.c:1744:5:mbedtls_x509_crt_check_extended_key_usage	24	static
+x509_crt.c:1779:5:mbedtls_x509_crt_is_revoked	16	static
+x509_crt.c:2534:5:mbedtls_x509_crt_verify_restartable	272	static
+x509_crt.c:2497:5:mbedtls_x509_crt_verify	32	static
+x509_crt.c:2512:5:mbedtls_x509_crt_verify_with_profile	32	static
+x509_crt.c:2611:6:mbedtls_x509_crt_init	8	static
+x509_crt.c:2619:6:mbedtls_x509_crt_free	32	static
+x509_crt.c:1088:5:mbedtls_x509_crt_parse_der	144	static
+x509_crt.c:1139:5:mbedtls_x509_crt_parse	72	static

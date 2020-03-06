@@ -1,0 +1,9 @@
+aes_alt.c:486:6:mbedtls_aes_init	8	static
+aes_alt.c:491:6:mbedtls_aes_free	8	static
+aes_alt.c:874:6:mbedtls_aes_encrypt	8	static
+aes_alt.c:942:6:mbedtls_aes_decrypt	8	static
+aes_alt.c:953:5:mbedtls_aes_crypt_ecb	8	static
+aes_alt.c:986:5:mbedtls_aes_crypt_cbc	64	static
+aes_alt.c:1213:5:mbedtls_aes_crypt_cfb128	40	static
+aes_alt.c:1259:5:mbedtls_aes_crypt_cfb8	64	static
+aes_alt.c:1329:5:mbedtls_aes_crypt_ctr	48	static

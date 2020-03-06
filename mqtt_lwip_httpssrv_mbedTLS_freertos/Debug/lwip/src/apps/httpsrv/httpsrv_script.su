@@ -1,0 +1,5 @@
+httpsrv_script.c:33:21:httpsrv_find_callback	16	static
+httpsrv_script.c:67:6:httpsrv_call_cgi	200	static
+httpsrv_script.c:138:6:httpsrv_call_ssi	16	static
+httpsrv_script.c:163:6:httpsrv_script_handler	24	static
+httpsrv_script.c:240:6:httpsrv_process_cgi	144	static

@@ -1,0 +1,10 @@
+des_alt.c:310:6:mbedtls_des_init	8	static
+des_alt.c:315:6:mbedtls_des_free	0	static
+des_alt.c:323:6:mbedtls_des3_init	8	static
+des_alt.c:328:6:mbedtls_des3_free	0	static
+des_alt.c:347:6:mbedtls_des_key_set_parity	0	static
+des_alt.c:358:5:mbedtls_des_key_check_key_parity	4	static
+des_alt.c:413:5:mbedtls_des_key_check_weak	24	static
+des_alt.c:425:6:mbedtls_des_setkey	28	static
+des_alt.c:681:5:mbedtls_des_crypt_cbc	48	static
+des_alt.c:782:5:mbedtls_des3_crypt_cbc	48	static

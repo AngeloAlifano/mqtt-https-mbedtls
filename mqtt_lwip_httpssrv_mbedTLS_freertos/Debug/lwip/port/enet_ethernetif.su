@@ -1,0 +1,3 @@
+enet_ethernetif.c:72:6:ethernetif_phy_init	48	static
+enet_ethernetif.c:133:6:ethernetif_input	16	static
+enet_ethernetif.c:173:7:ethernetif_init	24	static

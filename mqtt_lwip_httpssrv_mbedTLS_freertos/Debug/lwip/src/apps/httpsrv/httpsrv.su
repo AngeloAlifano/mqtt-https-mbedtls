@@ -1,0 +1,5 @@
+httpsrv.c:31:10:HTTPSRV_init	16	static
+httpsrv.c:68:6:HTTPSRV_release	16	static
+httpsrv.c:101:10:HTTPSRV_cgi_write	32	static
+httpsrv.c:188:10:HTTPSRV_cgi_read	32	static
+httpsrv.c:241:10:HTTPSRV_ssi_write	8	static

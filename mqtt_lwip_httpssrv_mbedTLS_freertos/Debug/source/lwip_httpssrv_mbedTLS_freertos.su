@@ -1,0 +1,17 @@
+lwip_httpssrv_mbedTLS_freertos.c:394:10:ws_echo_connect	0	static
+lwip_httpssrv_mbedTLS_freertos.c:402:10:ws_echo_disconnect	0	static
+lwip_httpssrv_mbedTLS_freertos.c:430:10:ws_echo_error	0	static
+lwip_httpssrv_mbedTLS_freertos.c:256:12:cgi_example	168	static
+lwip_httpssrv_mbedTLS_freertos.c:211:12:cgi_rtc_data	64	static
+lwip_httpssrv_mbedTLS_freertos.c:352:12:ssi_date_time	16	static
+lwip_httpssrv_mbedTLS_freertos.c:410:10:ws_echo_message	8	static
+lwip_httpssrv_mbedTLS_freertos.c:526:13:main_thread	64	static
+lwip_httpssrv_mbedTLS_freertos.c:685:13:mqtt_message_published_cb	8	static
+lwip_httpssrv_mbedTLS_freertos.c:544:13:mqtt_topic_subscribed_cb	8	static
+lwip_httpssrv_mbedTLS_freertos.c:571:13:mqtt_incoming_data_cb	32	static
+lwip_httpssrv_mbedTLS_freertos.c:561:13:mqtt_incoming_publish_cb	8	static
+lwip_httpssrv_mbedTLS_freertos.c:717:13:app_thread	24	static
+lwip_httpssrv_mbedTLS_freertos.c:702:13:publish_message	32	static
+lwip_httpssrv_mbedTLS_freertos.c:672:13:connect_to_mqtt	16	static
+lwip_httpssrv_mbedTLS_freertos.c:626:13:mqtt_connection_cb	16	static
+lwip_httpssrv_mbedTLS_freertos.c:816:5:main	56	static

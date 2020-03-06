@@ -1,0 +1,8 @@
+httpsrv_ws.c:753:16:ws_data_frame	32	static
+httpsrv_ws.c:1097:17:ws_get_header_size	0	static
+httpsrv_ws.c:1124:12:ws_send_frame	56	static
+httpsrv_ws.c:1205:12:ws_send_control_frame	40	static
+httpsrv_ws.c:1047:13:ws_bad_frame	40	static
+httpsrv_ws.c:543:17:ws_check_utf8	32	static
+httpsrv_ws.c:51:6:ws_session_run	88	static
+httpsrv_ws.c:76:6:ws_handshake	120	static

@@ -1,0 +1,12 @@
+dhm.c:71:12:dhm_read_bignum	16	static
+dhm.c:106:12:dhm_check_range	40	static
+dhm.c:127:6:mbedtls_dhm_init	8	static
+dhm.c:136:5:mbedtls_dhm_read_params	32	static
+dhm.c:161:5:mbedtls_dhm_make_params	56	static
+dhm.c:238:5:mbedtls_dhm_set_group	24	static
+dhm.c:260:5:mbedtls_dhm_read_public	8	static
+dhm.c:279:5:mbedtls_dhm_make_public	48	static
+dhm.c:394:5:mbedtls_dhm_calc_secret	72	static
+dhm.c:450:6:mbedtls_dhm_free	8	static
+dhm.c:473:5:mbedtls_dhm_parse_dhm	80	static
+dhm.c:680:5:mbedtls_dhm_self_test	136	static

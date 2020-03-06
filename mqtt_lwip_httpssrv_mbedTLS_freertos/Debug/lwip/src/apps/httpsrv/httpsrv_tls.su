@@ -1,0 +1,8 @@
+httpsrv_tls.c:160:12:httpsrv_mbedtls_recv	8	static
+httpsrv_tls.c:151:12:httpsrv_mbedtls_send	8	static
+httpsrv_tls.c:124:6:httpsrv_tls_release	8	static
+httpsrv_tls.c:18:19:httpsrv_tls_init	48	static
+httpsrv_tls.c:221:6:httpsrv_tls_shutdown	8	static
+httpsrv_tls.c:172:20:httpsrv_tls_socket	24	static
+httpsrv_tls.c:244:5:httpsrv_tls_recv	8	static
+httpsrv_tls.c:260:9:httpsrv_tls_send	8	static

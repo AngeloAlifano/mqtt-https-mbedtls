@@ -1,0 +1,4 @@
+httpsrv_sha1.c:56:6:SHA1_Transform	112	static
+httpsrv_sha1.c:175:6:SHA1_Init	0	static
+httpsrv_sha1.c:187:6:SHA1_Update	32	static
+httpsrv_sha1.c:215:6:SHA1_Final	32	static

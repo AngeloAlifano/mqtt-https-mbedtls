@@ -1,0 +1,7 @@
+pkwrite.c:110:12:pk_write_ec_pubkey	128	static
+pkwrite.c:138:12:pk_write_ec_param	24	static
+pkwrite.c:155:5:mbedtls_pk_write_pubkey	48	static
+pkwrite.c:181:5:mbedtls_pk_write_pubkey_der	48	static
+pkwrite.c:234:5:mbedtls_pk_write_key_der	64	static
+pkwrite.c:478:5:mbedtls_pk_write_pubkey_pem	1104	static
+pkwrite.c:503:5:mbedtls_pk_write_key_pem	2912	static

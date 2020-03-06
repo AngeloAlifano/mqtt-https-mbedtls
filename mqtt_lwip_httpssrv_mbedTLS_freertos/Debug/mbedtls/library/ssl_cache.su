@@ -1,0 +1,5 @@
+ssl_cache.c:46:6:mbedtls_ssl_cache_init	8	static
+ssl_cache.c:58:5:mbedtls_ssl_cache_get	24	static
+ssl_cache.c:137:5:mbedtls_ssl_cache_set	24	static
+ssl_cache.c:294:6:mbedtls_ssl_cache_set_max_entries	0	static
+ssl_cache.c:301:6:mbedtls_ssl_cache_free	16	static

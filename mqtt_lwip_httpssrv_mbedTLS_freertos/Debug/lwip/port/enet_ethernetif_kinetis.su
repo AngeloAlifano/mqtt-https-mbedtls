@@ -1,0 +1,6 @@
+enet_ethernetif_kinetis.c:104:13:ethernet_callback	16	static
+enet_ethernetif_kinetis.c:228:6:ethernetif_enet_init	80	static
+enet_ethernetif_kinetis.c:308:13:ethernetif_enet_ptr	0	static
+enet_ethernetif_kinetis.c:362:14:ethernetif_linkinput	24	static
+enet_ethernetif_kinetis.c:473:7:ethernetif_linkoutput	40	static
+enet_ethernetif_kinetis.c:560:7:ethernetif0_init	8	static

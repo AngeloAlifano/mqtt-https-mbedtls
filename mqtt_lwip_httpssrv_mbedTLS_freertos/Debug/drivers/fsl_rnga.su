@@ -1,0 +1,6 @@
+fsl_rnga.c:173:6:RNGA_Init	0	static
+fsl_rnga.c:197:6:RNGA_Deinit	0	static
+fsl_rnga.c:235:10:RNGA_GetRandomData	24	static
+fsl_rnga.c:287:6:RNGA_SetMode	0	static
+fsl_rnga.c:300:13:RNGA_GetMode	0	static
+fsl_rnga.c:314:6:RNGA_Seed	0	static

@@ -1,0 +1,6 @@
+httpsrv_task.c:269:13:httpsrv_ses_free	8	static
+httpsrv_task.c:342:13:httpsrv_ses_close	8	static
+httpsrv_task.c:168:13:httpsrv_session_task	24	static
+httpsrv_task.c:384:6:httpsrv_http_process	48	static
+httpsrv_task.c:824:13:httpsrv_plugin_run	8	static
+httpsrv_task.c:39:6:httpsrv_server_task	48	static

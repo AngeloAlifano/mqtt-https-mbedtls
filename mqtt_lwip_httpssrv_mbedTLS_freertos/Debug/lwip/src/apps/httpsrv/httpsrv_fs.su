@@ -1,0 +1,7 @@
+httpsrv_fs.c:33:6:HTTPSRV_FS_init	0	static
+httpsrv_fs.c:48:21:HTTPSRV_FS_open	24	static
+httpsrv_fs.c:84:6:HTTPSRV_FS_close	8	static
+httpsrv_fs.c:103:9:HTTPSRV_FS_read	8	static
+httpsrv_fs.c:131:9:HTTPSRV_FS_fseek	0	static
+httpsrv_fs.c:204:9:HTTPSRV_FS_ioctl	0	static
+httpsrv_fs.c:426:8:HTTPSRV_FS_size	0	static

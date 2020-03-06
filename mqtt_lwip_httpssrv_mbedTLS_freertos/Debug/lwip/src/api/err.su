@@ -1,0 +1,2 @@
+err.c:69:1:err_to_errno	0	static
+err.c:107:1:lwip_strerr	0	static
